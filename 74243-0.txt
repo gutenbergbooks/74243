@@ -1291,7 +1291,7 @@ felt about it until he had the misfortune to see it.
 To cross such a plain (Nebraska) is to grow homesick for the
 mountains.  I longed for the Black Hills of Wyoming, which I knew we
 were soon to enter, like an ice-bound whaler for the spring.  Alas!
-and it was a worse county than the other.  All Sunday and Monday we
+and it was a worse country than the other.  All Sunday and Monday we
 travelled through these sad mountains or over the main ridge of the
 Rockies, which is a fair match to them in misery of aspect.  Hour
 after hour it was the same unhomely and unkindly world about our
@@ -1718,7 +1718,7 @@ companionship and their starry discourse.  To be plagiarised by
 Milton would be no grievance, but a crowning distinction.  It would
 be a title-deed for immortality.  The two most beautiful lines in the
 poem on the daffodils by Ullswater are Dorothy Wordsworth's, and in
-sending _The Ettrick Shepherd_ to the _Athenœum_ for publication
+sending _The Ettrick Shepherd_ to the _Athenæum_ for publication
 Wordsworth acknowledged that in the lines:
 
   Like clouds that rake the mountain-summits
@@ -2513,7 +2513,7 @@ Burns, but one word, the vital word, escaped me.  I give the stanza,
 with the word I lacked missing:
 
   To make a happy fireside clime
-    For weans and wife---
+    For weans and wife--
   That's the true (_missing word(s)_) and sublime
     Of human life.
 
@@ -3035,7 +3035,7 @@ That was what was wrong with Alfred Austin, the great master of
 bathos, who perpetrated more banalities than any poet since Pye.  I
 like best his tribute to the dauntless soldiers:
 
-  They did not know what blench meant.
+  They did not know what blench meant,
   So they stayed in their entrenchment.
 
 Here the grotesqueness of the rhyme emphasises the absurdity of the
